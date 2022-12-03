@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome to My Github Profile!
 
-<!--
-**199ocero/199ocero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 , my name is **Jay-Are Ocero.**
 
-Here are some ideas to get you started:
+I'm a **Full Stack Developer** and **UI/UX** designer who always been passionate about web development and constantly seeking out new technologies and staying up-to-date on trends in the industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 Visit my website -  [JA Ocero](https://jaocero.com/)
+✨ Tutorials - [Check it here](https://jaocero.com/tutorials)
+📖 Courses - [Check it here](https://jaocero.com/courses)
+
+
+**Things I code with:**
+
+ - Laravel
+ - Vue.js
+ - Inertia.js
+ - Nuxt.js
+ - Livewire
+ - Tailwind CSS
+ - Bootstrap
+ - HTML
+ - CSS
+ - Javascript
+ - jQuery
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=199ocero&show_icons=true&theme=dracula&count_private=true)
