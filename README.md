@@ -2,7 +2,7 @@
 
 Hi 👋 , my name is **Jay-Are Ocero.**
 
-I'm a **Full Stack Developer** and **UI/UX** designer who always been passionate about web development and constantly seeking out new technologies and staying up-to-date on trends in the industry.
+I'm a **Full Stack Developer** and **UI/UX Designer** who always been passionate about web development and constantly seeking out new technologies and staying up-to-date on trends in the industry.
 
 👨🏻‍💻 Visit my website -  [JA Ocero](https://jaocero.com/)
 <br>
