@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GalactisCMS<br><br>🌱 I’m currently learning advance php, filament, vue and react js.<br><br>👨‍💻 All of my projects are available at https://jaocero.com/<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
+🔭 I’m currently working on [GalactisCMS](https://github.com/199ocero/GalactisCMS)<br><br>🌱 I’m currently learning advance php, filament, vue and react js.<br><br>👨‍💻 All of my projects are available at [JAOcero](https://jaocero.com/)<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
 
 
 ## 🌐 Socials:
