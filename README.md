@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [GalactisSync](https://github.com/199ocero/GalactisSync)<br><br>🌱 I’m currently learning advance php, filament, vue and react js.<br><br>👨‍💻 All of my projects are available at [JAOcero](https://jaocero.com/)<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
+🔭 I’m currently working on [AppSyncify](https://github.com/199ocero/AppSyncify)<br><br>🌱 I’m currently learning advance php, filament, vue and react js.<br><br>👨‍💻 All of my projects are available at [JAOcero](https://jaocero.com/)<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
 
 
 ## 🌐 Socials:
