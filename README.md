@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FilamentPHP plugins [Radio Deck](https://filamentphp.com/plugins/jaocero-radio-deck) <br><br>🌱 I’m currently learning advance php, livewire, alpines.js and filament.<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
+🔭 I’m currently working on FilamentPHP plugins [Radio Deck](https://filamentphp.com/plugins/jaocero-radio-deck) and some are in progress.<br><br>🌱 I’m currently learning advance php, livewire, alpines.js and filament.<br><br>📫 How to reach me freelanceocero@gmail.com<br><br>⚡ Fun fact I usually read manga or manhwa during free time
 
 
 ## 🌐 Socials:
