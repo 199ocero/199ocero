@@ -36,8 +36,8 @@ The open-source email control plane for Amazon SES. Self-hosted, developer-first
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=199ocero&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=199ocero&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=199ocero&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=199ocero&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+](https://github-stats-extended.vercel.app/api?username=199ocero&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
