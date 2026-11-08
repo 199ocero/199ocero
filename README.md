@@ -10,6 +10,56 @@
 
 <br>
 
+### 🚀 Featured Open Source — Xelqun
+
+<table>
+<tr>
+<td colspan="3" valign="top">
+
+**[Xelqun](https://github.com/199ocero/xelqun)** — the FilamentPHP experience, built for **Laravel + Inertia.js + Vue**
+
+Define forms, tables and full admin panels in PHP, and render them as native Vue components through Inertia. No Livewire, no Blade — just the Laravel backend you know and the Vue frontend you want.
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/github/stars/199ocero/xelqun?style=flat-square&color=8b5cf6" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[📝 Forms](https://github.com/199ocero/xelqun-forms)**
+
+<a href="https://packagist.org/packages/xelqun/forms"><img src="https://img.shields.io/packagist/dt/xelqun/forms?style=flat-square&color=6366f1&label=downloads" /></a>
+
+A FilamentPHP-style form builder. Define your forms in PHP, render them in Vue.
+
+</td>
+<td width="33%" valign="top">
+
+**[📊 Tables](https://github.com/199ocero/xelqun-tables)**
+
+<img src="https://img.shields.io/github/stars/199ocero/xelqun-tables?style=flat-square&color=8b5cf6" />
+
+Data tables defined in PHP — columns, filters, sorting, search and actions — rendered in Vue.
+
+</td>
+<td width="33%" valign="top">
+
+**[🧱 Panels](https://github.com/199ocero/xelqun-panels)**
+
+<img src="https://img.shields.io/github/stars/199ocero/xelqun-panels?style=flat-square&color=8b5cf6" />
+
+Ties forms and tables together into complete admin panels: resources, pages, navigation and layouts.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ### 💼 Product
 
 **[PasteSheet](https://pastesheet.com/)** — my SaaS
@@ -18,20 +68,11 @@ Turns any Google Sheet into a live REST API and MCP server. Paste a URL, get cle
 
 <br>
 
-### 🧩 Open Source
+### 🧩 More Open Source — FilamentPHP Plugins
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[Xelqun Forms](https://github.com/199ocero/xelqun-forms)**
-
-<a href="https://packagist.org/packages/xelqun/forms"><img src="https://img.shields.io/packagist/dt/xelqun/forms?style=flat-square&color=6366f1&label=downloads" /></a>
-
-A FilamentPHP-style form builder for Laravel, Inertia.js and Vue. Define your forms in PHP, render them in Vue.
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Conversational Forms](https://github.com/199ocero/conversational-forms)**
 
@@ -40,9 +81,7 @@ A FilamentPHP-style form builder for Laravel, Inertia.js and Vue. Define your fo
 Typeform-style forms for FilamentPHP — one question at a time, with 23 question types, keyboard navigation, logic jumps, shareable public pages and a no-code builder.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Activity Timeline](https://github.com/199ocero/activity-timeline)**
 
@@ -52,7 +91,7 @@ Typeform-style forms for FilamentPHP — one question at a time, with 23 questio
 Beautiful activity timelines for Filament infolists, pages and actions, with first-class Spatie Activitylog support.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Radio Deck](https://github.com/199ocero/radio-deck)**
 
