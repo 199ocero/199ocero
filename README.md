@@ -33,26 +33,29 @@ Define forms, tables and full admin panels in PHP, and render them as native Vue
 **[📝 Forms](https://github.com/199ocero/xelqun-forms)**
 
 <a href="https://packagist.org/packages/xelqun/forms"><img src="https://img.shields.io/packagist/dt/xelqun/forms?style=flat-square&color=6366f1&label=downloads" /></a>
+<img src="https://img.shields.io/github/stars/199ocero/xelqun-forms?style=flat-square&color=8b5cf6" />
 
-A FilamentPHP-style form builder. Define your forms in PHP, render them in Vue.
+Describe a form in PHP and generic Vue components render it — repeaters and file uploads included, no Vue needed for normal forms.
 
 </td>
 <td width="33%" valign="top">
 
 **[📊 Tables](https://github.com/199ocero/xelqun-tables)**
 
+<a href="https://packagist.org/packages/xelqun/tables"><img src="https://img.shields.io/packagist/dt/xelqun/tables?style=flat-square&color=6366f1&label=downloads" /></a>
 <img src="https://img.shields.io/github/stars/199ocero/xelqun-tables?style=flat-square&color=8b5cf6" />
 
-Data tables defined in PHP — columns, filters, sorting, search and actions — rendered in Vue.
+Schema-driven tables written in PHP, secure by default, with support for your own custom columns.
 
 </td>
 <td width="33%" valign="top">
 
 **[🧱 Panels](https://github.com/199ocero/xelqun-panels)**
 
+<a href="https://packagist.org/packages/xelqun/panels"><img src="https://img.shields.io/packagist/dt/xelqun/panels?style=flat-square&color=6366f1&label=downloads" /></a>
 <img src="https://img.shields.io/github/stars/199ocero/xelqun-panels?style=flat-square&color=8b5cf6" />
 
-Ties forms and tables together into complete admin panels: resources, pages, navigation and layouts.
+Full admin panels in PHP — navigation, authentication, CRUD resources and dashboards.
 
 </td>
 </tr>
